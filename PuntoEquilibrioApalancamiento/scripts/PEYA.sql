@@ -84,4 +84,3 @@ ALTER COLUMN VentasTotales DECIMAL(10,2) NULL;
 
 ALTER TABLE Parametros
 ALTER COLUMN Intereses DECIMAL(10,2) NULL;
-SELECT CostosFijos, PrecioPorUnidad, CostoVariablePorUnidad FROM Parametros ORDER BY FechaRegistro DESC

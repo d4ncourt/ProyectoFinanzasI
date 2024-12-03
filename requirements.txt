@@ -3,3 +3,5 @@ ttkbootstrap
 numpy
 xlsxwriter
 pyodbc
+reportlab
+
